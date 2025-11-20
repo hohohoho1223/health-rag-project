@@ -12,7 +12,7 @@
 - [x] Spring Boot 프로젝트 생성 (Kotlin, Gradle)
 
 ### 2. 기본 API 구축
-- [ ] `/hello` API 구현 (서버 정상 동작 확인)
+- [x] `/hello` API 구현 (서버 정상 동작 확인)
 - [ ] `ChatRequest`, `ChatResponse` DTO 생성
 - [ ] `/api/chat/echo` API 구현 (입력 메시지 → 그대로 응답 하는지)
 
