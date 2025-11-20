@@ -1,11 +1,11 @@
-package com.example.health_rag_project
+package com.example.springboot_ai
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class HealthRagProjectApplication
+class SpringBootAiApplication
 
 fun main(args: Array<String>) {
-    runApplication<HealthRagProjectApplication>(*args)
+    runApplication<SpringBootAiApplication>(*args)
 }

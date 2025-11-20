@@ -1,10 +1,10 @@
-package com.example.health_rag_project
+package com.example.springboot_ai
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class HealthRagProjectApplicationTests {
+class SpringBootAiApplicationTests {
 
     @Test
     fun contextLoads() {
