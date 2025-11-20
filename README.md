@@ -9,7 +9,7 @@
 ## 구현 기능 목록 (우테코 스타일 Todo List)
 
 ### 1. 개발환경 세팅
-- [ ] Spring Boot 프로젝트 생성 (Kotlin, Gradle)
+- [x] Spring Boot 프로젝트 생성 (Kotlin, Gradle)
 
 ### 2. 기본 API 구축
 - [ ] `/hello` API 구현 (서버 정상 동작 확인)
@@ -21,7 +21,8 @@
 
 - JDK 21
 - Kotlin 2.0
-- Spring Boot 3.5.x
+
+[//]: # (- Spring Boot 3.5.x)
 - Gradle 8.x (Kotlin DSL)
 - IntelliJ IDEA (Ultimate)
 
