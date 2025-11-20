@@ -1,4 +1,4 @@
-package com.example.health_rag_project.controller
+package com.example.springboot_ai.controller
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

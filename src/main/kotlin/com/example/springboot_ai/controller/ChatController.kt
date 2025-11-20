@@ -1,8 +1,7 @@
-package com.example.health_rag_project.controller
+package com.example.springboot_ai.controller
 
-
-import com.example.health_rag_project.dto.ChatRequest
-import com.example.health_rag_project.dto.ChatResponse
+import com.example.springboot_ai.dto.ChatRequest
+import com.example.springboot_ai.dto.ChatResponse
 import org.springframework.web.bind.annotation.*
 
 @RestController

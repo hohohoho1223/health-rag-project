@@ -1,4 +1,4 @@
-package com.example.health_rag_project.dto
+package com.example.springboot_ai.dto
 
 //DTO(Data Transfer Object) : 백엔드에서 요청/응답에 사용되는 데이터 구조
 
