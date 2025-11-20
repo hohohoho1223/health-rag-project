@@ -1,0 +1,10 @@
+### Hello Test
+GET http://localhost:8080/hello
+
+### Echo API Test
+POST http://localhost:8080/api/chat/echo
+Content-Type: application/json
+
+{
+  "message": "내가 보이면 POST 요청을 잘 받은것."
+}
