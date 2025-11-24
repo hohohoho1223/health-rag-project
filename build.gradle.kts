@@ -45,6 +45,9 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+
+    //PDF 처리 라이브러리
+    implementation("org.apache.pdfbox:pdfbox:2.0.30")
 }
 
 dependencyManagement {
