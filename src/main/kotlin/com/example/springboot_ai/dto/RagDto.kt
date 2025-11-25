@@ -19,7 +19,7 @@ data class DocumentUploadResultDto(
 //질의 요청 데이터 모델
 @Schema(description = "질의 요청 데이터 모델")
 data class QueryRequestDto(
-    @Schema(description = "사용자 질문", example = "인공지능이란 무엇인가요?")
+    @Schema(description = "사용자 질문", example = "허리가 아픈 이유를 알려줘")
     val query: String,
 
     @Schema(description = "최대 검색 결과 수", example = "3", defaultValue = "3")
