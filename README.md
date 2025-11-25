@@ -1,10 +1,9 @@
 # Health RAG Project (Kotlin + Spring Boot)
 
-## 우아한테크코스_프리코스_프로젝트
 
 - [kotlin 언어 + springboot] 조합으로  
   **OpenAI API 호출 → 답변 받는 기본 챗봇 시스템**을 구현하며  
-  Spring Boot의 흐름(Controller → Service → DTO)을 이해하는 것을 목표로 한다.
+  Spring Boot의 흐름(Controller → Service → DTO)을 이해하는 것을 목표로 함
 
 ## 구현 기능 목록
 
