@@ -19,9 +19,10 @@ import java.io.IOException
 
 /**
  * RAG(Retrieval-Augmented Generation) API 컨트롤러
- *
- * PDF 문서 업로드 및 질의응답 기능을 제공합니다.
+ * PDF 문서 업로드 및 질의응답 기능을 제공
  */
+
+@CrossOrigin(origins = ["*"])
 @RestController
 @RequestMapping("/api/v1/rag")
 @Tag(name = "RAG API", description = "Retrieval-Augmented Generation 기능을 위한 API")
