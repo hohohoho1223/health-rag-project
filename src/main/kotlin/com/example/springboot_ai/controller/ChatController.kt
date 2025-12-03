@@ -11,7 +11,7 @@ import io.swagger.v3.oas.annotations.tags.Tag
 import org.springframework.http.ResponseEntity
 
 @RestController
-@RequestMapping("/api/chat")
+@RequestMapping("/api/v1/chat")
 @Tag(name = "Chat API", description = "OpenAI API를 활용한 채팅기능")
 class ChatController(
     private val chatService: ChatService
